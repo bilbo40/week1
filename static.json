@@ -1,7 +1,8 @@
 {
   "headers":{ 
     "/*": {
-      "X-Author": "bilbo40"
+      "X-Author": "bilbo40",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
